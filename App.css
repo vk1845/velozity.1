@@ -1,0 +1,40 @@
+.navelocity{
+display:flex;
+ 
+justify-content:center;
+ padding-top: 250px;
+ background-color:lightgrey;
+ height:450px;
+}
+
+.first{
+    background-color: #81DAF5;
+   
+}
+
+
+.second{
+    background-color: #CEECF5;
+}
+
+.button1{
+    margin:10px;
+    height:30px;
+    width:50px;
+    background-color: aqua;
+}
+.navbar{
+    display:flex;
+    background-color:rgb(121, 121, 183);
+    height:50px;
+    align-items:center;
+    justify-content: center;
+}
+
+.navbartitle{
+    font-size:22px;
+}
+table,th,td{
+    border:1px solid black;
+    
+}

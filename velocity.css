@@ -1,0 +1,30 @@
+table,th,td{
+    border:1px solid rgb(216, 201, 201);
+    
+}
+
+
+.first{
+    background-color: #81DAF5;
+   
+}
+
+
+.second{
+    background-color: #CEECF5;
+}
+
+.button1{
+    margin:10px;
+    height:30px;
+    width:50px;
+    background-color: aqua;
+} 
+
+tr:nth-child(even) {
+    background-color:lightgreen;
+
+}
+tr{
+    background-color: #5cbedc;
+}
